@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 SLiMS 9 Bulian
 ===============
 SENAYAN Library Management System (SLiMS) version 9 Codename Bulian
@@ -16,3 +17,6 @@ to learn more about GPL.
 - PHP GD enabled
 - PHP gettext enabled
 - PHP mbstring enabled
+=======
+# slims-bulian-perpusda
+>>>>>>> 7e1c9865040128a96e59fa1c0902a7161dab8c3d
